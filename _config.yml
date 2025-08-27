@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "GyuHyeong's Website"
 title_separator          : "-"
 name                     : &name "GyuHyeong Kim"
 description              : &description "personal description"
