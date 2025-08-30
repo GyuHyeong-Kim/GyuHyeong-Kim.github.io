@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GyuHyeong Kim"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,7 @@ Research Interests
 ------
 
 Research Experiences
-======
+------
 
 Certification & Specialization
 ------
-
