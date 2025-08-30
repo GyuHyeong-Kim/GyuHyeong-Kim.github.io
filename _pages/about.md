@@ -10,17 +10,15 @@ redirect_from:
 About me
 ======
 ---
-___
-***
-
-About me
-------
 
 Research Interests
-------
+======
+---
 
 Research Experiences
-------
+======
+---
 
 Certification & Specialization
-------
+======
+---
