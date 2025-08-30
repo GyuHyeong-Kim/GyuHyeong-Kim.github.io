@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+Research Interests
+------
+
+Research Experiences
 ======
 
-Getting started
-======
-
-
-Site-wide configuration
+Certification & Specialization
 ------
 
