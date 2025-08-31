@@ -19,6 +19,8 @@ Research Experiences
 ======
 ---
 
+<br>
+
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
   <img src="/images/korea.png" alt="Korea University"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
@@ -32,7 +34,6 @@ Research Experiences
   </div>
 </div>
 
-<br>
 <br>
 
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
