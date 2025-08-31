@@ -21,17 +21,14 @@ Research Experiences
 
 <style>
   .lab-link-hover {
-    color: #0056b3; /* 기본 파란색 */
-    text-decoration: none !important; /* 밑줄이 생기는 것을 방지 */
-    transition: color 0.2s ease-in-out; /* 색상 변경을 부드럽게 */
+    color: #0056b3;
+    text-decoration: none !important;
+    transition: color 0.2s ease-in-out;
   }
-
-  /* 링크에 마우스를 올렸을 때의 스타일 */
   .lab-link-hover:hover {
-    color: #FFA500; /* 주황색으로 변경 */
+    color: #FFA500;
   }
 </style>
-
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
   <img src="/images/korea.png" alt="Korea University"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
