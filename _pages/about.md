@@ -15,9 +15,7 @@ Research Interests
 ======
 ---
 
-<div class="experience-entry">
-  <img src="/images/korea.png" alt="Korea University Logo" class="logo">
-  
+<div class="experience-entry"> <img src="/images/korea.png" alt="Korea University Logo" class="logo">
   <div class="description">
     <p><strong>Research Intern</strong></p>
     <p>
