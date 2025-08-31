@@ -28,6 +28,7 @@ Research Experiences
 
   .lab-link:hover {
     color: #FFA500;
+    text-decoration: none;
   }
 </style>
 
