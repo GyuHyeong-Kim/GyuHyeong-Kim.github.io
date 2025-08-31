@@ -19,7 +19,7 @@ Research Experiences
 ======
 ---
 
-<div style="display: flex; gap: 36px; align-items: flex-start; margin-top: 20px; margin-bottom: 50px;">
+<div style="display: flex; gap: 36px; align-items: flex-start; margin-top: 25px; margin-bottom: 40px;">
   <img src="/images/korea.png" alt="Korea University"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
