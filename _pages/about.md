@@ -19,9 +19,7 @@ Research Experiences
 ======
 ---
 
-<br>
-
-<div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
+<div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 50px;">
   <img src="/images/korea.png" alt="Korea University"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
@@ -33,8 +31,6 @@ Research Experiences
     Advisor: Prof. Jongheon Jeong
   </div>
 </div>
-
-<br>
 
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
   <img src="/images/baek_university.png" alt="BAEKSEOK University"
