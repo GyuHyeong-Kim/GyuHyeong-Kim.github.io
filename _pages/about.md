@@ -19,19 +19,6 @@ Research Experiences
 ======
 ---
 
-<style>
-  .lab-link {
-    color: #0056b3;
-    text-decoration: none;
-    transition: color 0.2s ease;
-  }
-
-  .lab-link:hover {
-    color: #FFA500;
-    text-decoration: none;
-  }
-</style>
-
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-bottom: 32px;">
   <img src="/images/korea.png" alt="Korea University"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
