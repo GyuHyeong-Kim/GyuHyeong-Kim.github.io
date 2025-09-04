@@ -49,7 +49,7 @@ Certification & Specialization
 ======
 ---
 
-<div style="display: flex; gap: 36px; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; gap: 36px; align-items: center; margin-bottom: 25px;">
   <img src="/images/DeepLearningAI.png" alt="DeepLearningAI"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
@@ -60,7 +60,7 @@ Certification & Specialization
   </div>
 </div>
 
-<div style="display: flex; gap: 36px; align-items: center; margin-bottom: 32px;">
+<div style="display: flex; gap: 36px; align-items: center; margin-bottom: 25px;">
   <img src="/images/DeepLearningAI.png" alt="DeepLearningAI"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
