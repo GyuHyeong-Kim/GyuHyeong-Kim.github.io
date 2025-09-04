@@ -54,8 +54,8 @@ Certification & Specialization
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
-    <strong style="font-size: 18px; color: #333;">DeepLearning.AI</strong><br>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/642LRKE1FABM" target="_blank" class="lab-link">Deep Learning Specialization</a><br>
-    Coursera
+    <strong style="font-size: 18px; color: #333;">Deep Learning Specialization</strong><br>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/642LRKE1FABM" target="_blank" class="lab-link">CERTIFICATE</a><br>
+    Coursera & DeepLearning.AI
   </div>
 </div>
