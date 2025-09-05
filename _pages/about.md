@@ -70,3 +70,14 @@ Certification & Specialization
     Coursera & DeepLearning.AI
   </div>
 </div>
+
+<div style="display: flex; gap: 36px; align-items: center; margin-bottom: 25px;">
+  <img src="/images/google.png" alt="google"
+       style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
+
+  <div style="font-size: 14px; line-height: 1.4; color: #000;">
+    <strong style="font-size: 18px; color: #333;">Google Analytics</strong><br>
+    <a href="https://skillshop.credential.net/a83cbb68-1ab1-4ca0-8909-e7f9f408b069#acc.BFXSKyZL" target="_blank" class="lab-link">CERTIFICATE</a><br>
+    Google
+  </div>
+</div>
