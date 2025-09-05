@@ -72,7 +72,7 @@ Certification & Specialization
 </div>
 
 <div style="display: flex; gap: 36px; align-items: center; margin-bottom: 25px;">
-  <img src="/images/google.png" alt="google"
+  <img src="/images/google_.png" alt="google"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
