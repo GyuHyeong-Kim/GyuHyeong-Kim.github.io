@@ -60,6 +60,10 @@ Research Experiences
   </div>
 </div>
 
+Publications
+======
+---
+
 Certification & Specialization
 ======
 ---
