@@ -24,12 +24,12 @@ Research Experiences
 ---
 
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-top: 25px; margin-bottom: 40px;">
-  <img src="/images/QI.png" alt="Korea University"
+  <img src="/images/QI.png" alt="QI"
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
     <strong style="font-size: 18px; color: #333;">Co-Founder</strong><br>
-    <a href="https://tail.korea.ac.kr/home" target="_blank" class="lab-link">Trustworthy AI Lab</a>, Korea University<br>
+    <a href="https://teratenet.com/" target="_blank" class="lab-link">QI</a>, Seoul<br>
     Jan. 2025 ~ Nov. 2025<br>
   </div>
 </div>
