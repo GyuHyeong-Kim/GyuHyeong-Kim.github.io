@@ -68,7 +68,7 @@ Publications
 ======
 ---
 
-Certification & Specialization
+Certifications
 ======
 ---
 
