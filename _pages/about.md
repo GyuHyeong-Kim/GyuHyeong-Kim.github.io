@@ -72,6 +72,16 @@ Patents
 ======
 ---
 
+<div style="margin-bottom: 25px; margin-left: 20px;">
+  
+  <div style="font-size: 14px; line-height: 1.4; color: #000;">
+    
+    <strong style="font-size: 18px; color: #333;">Quality improvement system for structured data oversampling based on late noise exploration</strong><br>    
+    Inventors: Joonhyeon Song, Yunhyeok Do, <strong style="color: #333;">Gyuhyeong Kim</strong>, <em>et al.</em><br>
+    Application: 10-2025-0159540 (Filed: Oct. 2025, Status: Pending)
+  </div>
+</div>
+
 Certifications
 ======
 ---
