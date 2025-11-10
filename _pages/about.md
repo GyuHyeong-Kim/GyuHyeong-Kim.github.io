@@ -15,6 +15,10 @@ Research Interests
 ======
 ---
 
+* AI Agents
+* Large Language Models
+* Natural Language Processing
+
 Research Experiences
 ======
 ---
