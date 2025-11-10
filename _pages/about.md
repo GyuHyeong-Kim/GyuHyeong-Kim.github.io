@@ -68,6 +68,10 @@ Publications
 ======
 ---
 
+Patents
+======
+---
+
 Certifications
 ======
 ---
