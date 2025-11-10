@@ -17,6 +17,7 @@ Research Interests
 
 Research Experiences
 ======
+---
 
 <div style="display: flex; gap: 36px; align-items: flex-start; margin-top: 25px; margin-bottom: 40px;">
   <img src="/images/korea.png" alt="Korea University"
@@ -46,6 +47,7 @@ Research Experiences
 
 Certification & Specialization
 ======
+---
 
 <div style="display: flex; gap: 36px; align-items: center; margin-bottom: 25px;">
   <img src="/images/DeepLearningAI.png" alt="DeepLearningAI"
