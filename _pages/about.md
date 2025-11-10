@@ -28,9 +28,9 @@ Research Experiences
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
   <div style="font-size: 14px; line-height: 1.4; color: #000; position: relative; top: -5px;">
-    <strong style="font-size: 18px; color: #333;">Co-Founder</strong><br>
-    <a href="https://teratenet.com/" target="_blank" class="lab-link">QI</a>, Seoul<br>
-    Jan. 2025 ~ Nov. 2025<br>
+    <strong style="font-size: 18px; color: #333;">Co-Founder, AI Research</strong><br>
+    <a href="https://teratenet.com/" target="_blank" class="lab-link">QI</a>, Seoul, Korea<br>
+    Jan. 2025 ~ present<br>
   </div>
 </div>
 
