@@ -43,7 +43,7 @@ Research Experiences
     <a href="https://tail.korea.ac.kr/home" target="_blank" class="lab-link">Trustworthy AI Lab</a>, Korea University<br>
     Feb. 2025 ~ Jul. 2025<br>
     <br>
-    Advisor: Prof. JongHeon Jeong
+    Advisor: Prof. Jongheon Jeong
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Research Experiences
     <a href="https://sites.google.com/view/yunheekang/Home?authuser=0" target="_blank" class="lab-link">Distributed Computing Lab</a>, Baekseok University<br>
     Oct. 2024 ~ Feb. 2025<br>
     <br>
-    Advisor: Prof. YunHee Kang
+    Advisor: Prof. Yunhee Kang
   </div>
 </div>
 
