@@ -32,7 +32,7 @@ Research Experiences
        style="width: 100px; height: 100px; object-fit: contain; margin-left: 20px;">
 
   <div style="font-size: 14px; line-height: 1.4; color: #000; position: relative; top: -5px;">
-    <strong style="font-size: 18px; color: #333;">Co-Founder, AI Research</strong><br>
+    <strong style="font-size: 18px; color: #333;">Co-Founder & AI Researcher</strong><br>
     <a href="https://teratenet.com/" target="_blank" class="lab-link">QI</a>, Seoul, Korea<br>
     Jan. 2025 ~ Present<br>
   </div>
@@ -72,7 +72,7 @@ Publications
   <div style="font-size: 14px; line-height: 1.4; color: #000;">    
     <strong style="font-size: 18px; color: #333;">RAR-Agent: A Rationale-Augmented Retrieval Framework for Legal Question Answering</strong><br>    
     <strong style="color: #333;">Gyuhyeong Kim</strong>, Yunhyeok Do, Joonhyeon Song, Ziyang Liu<br>    
-    JKSCI(KCI), Under Review
+    JKSCI(KCI, Q1), Under Review
   </div>
 </div>
 
