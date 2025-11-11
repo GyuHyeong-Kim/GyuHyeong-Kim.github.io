@@ -58,7 +58,7 @@ Research Experiences
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
     <strong style="font-size: 18px; color: #333;">Undergraduate Research Intern</strong><br>
     <a href="https://sites.google.com/view/yunheekang/Home?authuser=0" target="_blank" class="lab-link">Distributed Computing Lab</a>, Baekseok University<br>
-    Oct. 2024 ~ Feb. 2025<br>
+    Jun. 2024 ~ Feb. 2025<br>
     <br>
     Advisor: Prof. Yunhee Kang
   </div>
