@@ -72,7 +72,7 @@ Publications
   <div style="font-size: 14px; line-height: 1.4; color: #000;">    
     <strong style="font-size: 18px; color: #333;">RAR-Agent: A Rationale-Augmented Retrieval Framework for Legal Question Answering</strong><br>    
     <strong style="color: #333;">Gyuhyeong Kim</strong>, Yunhyeok Do, Joonhyeon Song, and Ziyang Liu<br>    
-    JKSCI(KCI), <strong>Status: Under Review</strong>
+    JKSCI(KCI), Under Review
   </div>
 </div>
 
@@ -83,8 +83,8 @@ Patents
 <div style="margin-bottom: 25px; margin-left: 20px;">  
   <div style="font-size: 14px; line-height: 1.4; color: #000;">    
     <strong style="font-size: 18px; color: #333;">Quality improvement system for structured data oversampling based on late noise exploration</strong><br>
-    Inventors: Joonhyeon Song, Yunhyeok Do, <strong style="color: #333;">Gyuhyeong Kim</strong>, et al.<br>    
-    Application: 10-2025-0159540 (Filed: Oct. 2025, Status: Pending)
+    Joonhyeon Song, Yunhyeok Do, <strong style="color: #333;">Gyuhyeong Kim</strong>, et al.<br>    
+    10-2025-0159540 (Filed: Oct. 2025, Status: Pending)
   </div>
 </div>
 
