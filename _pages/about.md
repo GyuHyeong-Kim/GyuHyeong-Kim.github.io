@@ -68,6 +68,14 @@ Publications
 ======
 ---
 
+<div style="margin-bottom: 25px; margin-left: 20px;">  
+  <div style="font-size: 14px; line-height: 1.4; color: #000;">    
+    <strong style="font-size: 18px; color: #333;">RAR-Agent: A Rationale-Augmented Retrieval Framework for Legal Question Answering</strong><br>    
+    <strong style="color: #333;">Gyuhyeong Kim</strong>, Yunhyeok Do, Joonhyeon Song, and Ziyang Liu<br>    
+    JKSCI(KCI), <strong>Status: Under Review</strong>
+  </div>
+</div>
+
 Patents
 ======
 ---
