@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "GyuHyeong's Website"
+title                    : "Gyuhyeong's Website"
 title_separator          : "-"
-name                     : &name "GyuHyeong Kim"
+name                     : &name "Gyuhyeong Kim"
 description              : &description "personal description"
 url                      : "https://GyuHyeong-Kim.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
