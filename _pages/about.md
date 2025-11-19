@@ -13,7 +13,7 @@ About Me
 
 I earned my bachelor's degree from Baekseok University, graduating first in my major (1/51).
 I am interested in contributing to a future where AI delivers practical and personalized value to people. I aim to achieve this by developing AI that can autonomously perform complex tasks and personalized AI that offers tailored experiences.
-My ultimate goal is to naturally integrate these technologies into daily life, creating an AI Agent that helps people effectively navigate complex information and enhance their personal productivity.
+My ultimate goal is to naturally integrate these technologies into daily life, creating an AI agent that helps people effectively navigate complex information and enhance their personal productivity.
 
 Research Interests
 ======
