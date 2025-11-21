@@ -20,8 +20,8 @@ Research Interests
 ---
 
 - AI Agents
-- Large Language Models
 - Natural Language Processing
+- Multimodal Learning
 
 Research Experiences
 ======
