@@ -98,7 +98,7 @@ Certifications
 
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
     <strong style="font-size: 18px; color: #333;">Deep Learning Specialization</strong><br>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/642LRKE1FABM" target="_blank" class="lab-link">CERTIFICATE</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/642LRKE1FABM" target="_blank" class="lab-link">Certificate</a><br>
     Coursera & DeepLearning.AI
   </div>
 </div>
@@ -109,7 +109,7 @@ Certifications
 
   <div style="font-size: 14px; line-height: 1.4; color: #000;">
     <strong style="font-size: 18px; color: #333;">Machine Learning Specialization</strong><br>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MOFYPOBGPTT0" target="_blank" class="lab-link">CERTIFICATE</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MOFYPOBGPTT0" target="_blank" class="lab-link">Certificate</a><br>
     Coursera & DeepLearning.AI
   </div>
 </div>
